@@ -1,0 +1,62 @@
+Day 1
+-----
+Java Introduction,JDK,JRE,JVM,Java Features,OOPS ,Class,Object,Encapsulation,
+Instance Variable,Local Variable,
+this keyword,Inheritance
+Day 2
+------
+
+Identifiers,Literals,Data Types,Variables,Automatic Type Conversions
+Casting Incompatible Types,Automatic Type Promotion in Expressions
+Arithmetic Operators ,Relational Operators ,Boolean Logical Operators
+Short-Circuit Logical Operators ,The Assignment Operator ,The ? Operator
+Selection Statements(if,switch) , Iteration Statements
+(do-while ,while ,for loop) ,break, continue
+
+Day 3
+-------
+Array
+Class ,Object ,Accessing Object Reference,
+Method,Returning value,Adding a Method That Takes Parameters,Constructors,Parameterized Constructors,Overloading Methods,Overloading Constructors,Using Objects as Parameters,call-by-value and call-by-reference ,Returning Objects,
+Encapsulation ,static ,final,
+
+
+
+
+
+
+
+
+Core Java - 5
+MYSQL -1 
+JDBC - 1
+Servlet and JSP -1
+Html 5 and CSS 3 -1
+JavaScript -1
+Spring framework- 2
+Spring Boot -1/2
+Rest WebService -1/2
+Microservice -1
+Angular -2
+
+int a=10;
+
+
+class ArrayIndexOutOfBoundsException extends Exception{
+}
+
+static 
+final
+super()
+super.
+
+
+
+
+
+
+
+
+
+
+
