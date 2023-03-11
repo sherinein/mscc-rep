@@ -1,0 +1,15 @@
+package com.demo.javaprj.day3;
+
+public class Student {
+	//static -access modifier
+	 String sname;
+	static String collegeName;
+	
+	static void display() {
+		System.out.println("welcome");
+	}
+	public static void main(String[] args) {
+		collegeName="";
+		display();
+	}
+}

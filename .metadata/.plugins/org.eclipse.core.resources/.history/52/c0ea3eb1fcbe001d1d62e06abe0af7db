@@ -1,0 +1,17 @@
+package com.demo.javaprj.day2;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		//byte a=1;
+		//byte b=1;
+		//Type mismatch: cannot convert from int to byte
+		//int c=a+b;
+		int a=128;
+		
+		byte b=(byte)a;
+		System.out.println(b);
+		
+	}
+
+}

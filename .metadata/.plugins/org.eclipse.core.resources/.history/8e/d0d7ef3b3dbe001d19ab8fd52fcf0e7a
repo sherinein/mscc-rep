@@ -1,0 +1,20 @@
+package com.demo.javaprj;
+
+public class DemoProgram {
+
+	public static void main(String[] args) {
+		//data-type
+		int age;
+		age=20;
+		
+		//int age=20;
+		//class-type or user defined data type
+		//Person person; //person  -reference
+		//person=new Person();
+		
+	
+		Person person2=new Person();
+		
+	}
+
+}

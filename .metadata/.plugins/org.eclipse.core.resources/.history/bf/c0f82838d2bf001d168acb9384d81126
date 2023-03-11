@@ -1,0 +1,18 @@
+package com.demo.javaprj.day3;
+
+public class Apple {
+	private int noOfApples;
+	
+	public Apple(){ // default constructor
+		
+	}
+	public int getNoOfApples() {
+		return noOfApples;
+	}
+
+	public void setNoOfApples(int noOfApples) {
+		this.noOfApples = noOfApples;
+	}
+	
+	
+}

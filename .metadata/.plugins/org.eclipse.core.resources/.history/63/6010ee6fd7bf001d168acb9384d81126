@@ -1,0 +1,8 @@
+package com.demo.javaprj.day3;
+
+public class Student {
+	
+	 String sname;
+	static String collegeName;
+	
+}

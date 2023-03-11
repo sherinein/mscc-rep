@@ -1,0 +1,5 @@
+package com.demo.javaprj;
+
+public class Child {
+	private int b;
+}

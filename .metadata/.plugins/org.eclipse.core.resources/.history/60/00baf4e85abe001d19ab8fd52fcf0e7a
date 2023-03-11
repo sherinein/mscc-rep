@@ -1,0 +1,18 @@
+package com.demo.javaprj;
+
+public class ParentChildDemo {
+
+	public static void main(String[] args) {
+		Child child=new Child();
+		child.setA(10);
+		child.setB(20);
+		
+		Parent parent=new Parent();
+		parent.setA(30);
+		
+		Parent parent1=new Child();
+		
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package com.demo.javaprj;
+
+public class Main {
+
+	public static void main(String[] args) {
+		MathFunction mainFunction=new MathFunction();
+		int output=mainFunction.addMeth(10, 20);
+		System.out.println(output);
+
+	}
+
+}
