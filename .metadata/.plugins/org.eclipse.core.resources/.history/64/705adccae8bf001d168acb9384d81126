@@ -1,0 +1,7 @@
+package com.demo.javaprj.day3;
+
+public abstract class Vehicle {
+	
+	abstract public void break();
+
+}
