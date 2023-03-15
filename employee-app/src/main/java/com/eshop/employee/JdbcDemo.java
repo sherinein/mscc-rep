@@ -15,9 +15,8 @@ public class JdbcDemo {
 	public static void main(String[] args) {
 	
 		// retrieve the employees from table
-		//1. Load the JDBC driver.
-		
 		try {
+			//1. Load the JDBC driver.
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			System.out.println("Driver loaded successfully");
 		} catch (ClassNotFoundException e) {
