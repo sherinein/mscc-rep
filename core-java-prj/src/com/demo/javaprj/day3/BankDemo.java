@@ -7,6 +7,7 @@ public class BankDemo {
 		RBI rbi=new ICICI();
 		
 		System.out.println(rbi.bankStatement());
+		System.out.println(RBI.PI);
 	}
 
 }

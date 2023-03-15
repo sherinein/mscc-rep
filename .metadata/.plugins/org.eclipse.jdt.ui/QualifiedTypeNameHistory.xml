@@ -2,5 +2,11 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.demo.javaprj.Person"/>
 <fullyQualifiedTypeName name="com.demo.javaprj.day2.EmployeeDetails"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.demo.javaprj.collection.Car"/>
+<fullyQualifiedTypeName name="com.demo.javaprj.day4.Product"/>
 </qualifiedTypeNameHistroy>
