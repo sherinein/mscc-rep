@@ -1,7 +1,0 @@
-package com.demo.javaprj.day3;
-
-public class Child extends Parent{
-	void display() {
-		System.out.println("This is child class");
-	}
-}

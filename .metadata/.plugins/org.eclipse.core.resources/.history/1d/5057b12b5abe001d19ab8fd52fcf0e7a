@@ -1,6 +1,0 @@
-package com.demo.javaprj;
-
-public class Parent {
-	private int a;
-	
-}

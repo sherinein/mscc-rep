@@ -5,8 +5,20 @@
 <fullyQualifiedTypeName name="java.lang.Override"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.StringBuilder"/>
-<fullyQualifiedTypeName name="java.util.List"/>
-<fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="com.demo.javaprj.collection.Car"/>
 <fullyQualifiedTypeName name="com.demo.javaprj.day4.Product"/>
+<fullyQualifiedTypeName name="java.sql.Driver"/>
+<fullyQualifiedTypeName name="com.mysql.cj.jdbc.Driver"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="com.eshop.employee.util.MySqlConnection"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
+<fullyQualifiedTypeName name="com.eshop.employee.dao.EmployeeDaoImpl"/>
+<fullyQualifiedTypeName name="com.eshop.employee.dao.EmployeeDao"/>
+<fullyQualifiedTypeName name="com.eshop.employee.service.EmployeeService"/>
+<fullyQualifiedTypeName name="com.eshop.employee.service.EmployeeServiceImpl"/>
+<fullyQualifiedTypeName name="com.eshop.employee.dto.Employee"/>
+<fullyQualifiedTypeName name="java.util.List"/>
 </qualifiedTypeNameHistroy>

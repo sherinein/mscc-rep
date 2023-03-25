@@ -1,9 +1,0 @@
-package com.demo.javaprj;
-
-public class Trainee {
-	private String tname;
-	private int age;
-	private String email;
-	private long mobileNumber;
-	
-}

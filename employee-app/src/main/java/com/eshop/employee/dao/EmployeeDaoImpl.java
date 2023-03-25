@@ -51,5 +51,9 @@ public class EmployeeDaoImpl implements EmployeeDao{
 		
 		return listOfEmployee;
 	}
+	//@Override
+	Employee saveNewEmployee(Employee emp) {
+		return new Employee();
+	}
 
 }

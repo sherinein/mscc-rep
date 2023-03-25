@@ -17,7 +17,7 @@ public class MySqlConnection {
 				String user="root";
 				String password="root";
 		//3. Establish the connection.
-			 con=DriverManager.getConnection(url, user, password);
+				con=DriverManager.getConnection(url, user, password);
 				 System.out.println("Connection is established");
 		} catch (ClassNotFoundException e) {
 			// TODO Auto-generated catch block

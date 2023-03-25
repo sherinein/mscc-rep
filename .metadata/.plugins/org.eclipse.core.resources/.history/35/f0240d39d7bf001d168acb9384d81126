@@ -1,9 +1,0 @@
-package com.demo.javaprj.day3;
-
-public class Student {
-	private int sid;
-	private String sname;
-	private String email;
-	private String collegeName;
-	
-}
